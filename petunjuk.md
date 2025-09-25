@@ -14,7 +14,7 @@
 
 ## 5. Install Dependency yang dibutuhkan
 
-- `pip install transformer[torch] accelerate hf_xet`
+- `pip install transformers[torch] accelerate hf_xet`
 
 ## 6. Jalankan main.py
 
